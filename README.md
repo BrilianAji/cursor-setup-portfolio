@@ -29,3 +29,15 @@
 - Switched to using Command Palette (Ctrl + Shift + P → Git: Clone) as an alternative method
 - Installed Git and restarted Cursor to enable repository cloning
 - Looked up guidance online and used ChatGPT selectively to clarify steps when stuck
+
+- ## Progress
+- 10 experts identified
+- 1 YouTube transcripts collected
+- 1 LinkedIn posts collected
+
+## Early Observations
+
+- Content is used as a primary demand generation tool in B2B
+- Consistency and clarity matter more than volume
+- High-performing content often focuses on simple, repeatable ideas
+- Distribution is as important as content creation
